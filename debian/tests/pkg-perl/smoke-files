@@ -1,0 +1,4 @@
+t/
+# for POD tests ...
+SSLeay.pm
+lib/Net/SSL.pm

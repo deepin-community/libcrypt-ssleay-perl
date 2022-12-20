@@ -1,0 +1,2 @@
+# not available over https
+libcrypt-ssleay-perl source: debian-watch-uses-insecure-uri http://search.cpan.org/dist/Crypt-SSLeay/
